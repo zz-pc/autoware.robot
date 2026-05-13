@@ -110,10 +110,11 @@ repositories:
     version: 0.2.0
 
   # launcher
-  launcher/autoware_launch:
+  launcher/autoware_launch.tutorial_vehicle:
     type: git
-    url: https://github.com/autowarefoundation/autoware_launch.git
-    version: 0.51.0
+    url: https://github.com/zz-pc/autoware_launch.tutorial_vehicle.git
+    version: main
+
 
   # sensor_component
   sensor_component/external/sensor_component_description:
